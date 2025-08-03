@@ -35,7 +35,7 @@ A complete beginner-friendly to professional track for mastering Python, APIs, S
 | 6 | Loops: for, while, range |
 | 7 | Break, Continue, Nested Loops |
 | 8 | Functions, Parameters, Return |
-| 9 | Function Arguments (default, keyword, arbitrary) |
+| 9 | Function Arguments (default, keyword, positional) |
 | 10 | Lists: creation, indexing, slicing |
 | 11 | Tuples & Sets |
 | 12 | Dictionaries: keys, values, loop |
